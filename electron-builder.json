@@ -66,8 +66,8 @@
   },
   "appx": {
     "backgroundColor": "#2f343d",
-    "displayName": "Rocket.Chat",
-    "publisherDisplayName": "Rocket.Chat",
+    "displayName": "Hiplounge",
+    "publisherDisplayName": "Hiplounge",
     "languages": [
       "en-US",
       "en-GB",
@@ -92,7 +92,7 @@
   "publish": [
     {
       "provider": "github",
-      "owner": "RocketChat",
+      "owner": "oe-solution",
       "repo": "Rocket.Chat.Electron",
       "vPrefixedTagName": false
     }
