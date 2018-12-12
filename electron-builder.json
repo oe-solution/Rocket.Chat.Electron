@@ -92,7 +92,7 @@
   "publish": [
     {
       "provider": "github",
-      "owner": "oe-solution",
+      "owner": "oesolution",
       "repo": "Rocket.Chat.Electron",
       "vPrefixedTagName": false
     }
